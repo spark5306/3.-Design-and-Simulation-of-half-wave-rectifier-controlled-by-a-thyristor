@@ -62,5 +62,20 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="850" height="452" alt="Screenshot 2025-09-07 122627" src="https://github.com/user-attachments/assets/f1528fcd-8f07-4622-8199-d31f74c71653" />
+
 ## Output
+1ohm,45` angle
+
+<img width="1920" height="988" alt="1ohm 45'" src="https://github.com/user-attachments/assets/2e8e92dc-e53a-4e9d-a499-094c2c0de107" />
+
+2ohm,45` angle
+
+<img width="1920" height="987" alt="2ohm 45'" src="https://github.com/user-attachments/assets/5847a38c-91ac-4d0f-89cd-9f5d629c33f2" />
+
+2ohm,90` angle
+
+<img width="1920" height="989" alt="2ohm 90'" src="https://github.com/user-attachments/assets/5ceff29c-58de-474e-b277-ffbcff830600" />
+
 ## Result
+Thus I designed, simulated and analysed a half wave controlled rectifier using one thyristor in MATLAB Simulink.
